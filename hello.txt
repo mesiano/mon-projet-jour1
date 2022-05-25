@@ -1,4 +1,3 @@
-Ca fait quoi le rebase ?
 Bienvenue dans le monde de Git
 
 salut les copains
